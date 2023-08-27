@@ -1,4 +1,16 @@
-img { 
-    width: 100px; 
-    height: 100px; 
+body, html {
+    height: 100%; 
+    width: auto; 
 }
+
+
+img { 
+    max-width: 15%;
+    height: auto; 
+    border-radius: 50%;
+}
+
+a {
+    text-decoration: none;
+}
+
